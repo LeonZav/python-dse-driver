@@ -1,0 +1,12 @@
+puresasl/__init__.py,sha256=PLhXLobzrQmCWjZvQvbx4yZicVvRuUg8Pxt-QKgpIq8,1026
+puresasl/client.py,sha256=uVZDRtlvKYDFa5qNWz0hgHtrpRRXUWqKWNiu73KZMn4,9929
+puresasl/mechanisms.py,sha256=h5l7cMkFwyh9hhzhqzE09jWXPAsBmI6bXe_jAz122vE,19319
+pure_sasl-0.6.1.dist-info/LICENSE,sha256=NpiBGKBhU7n98ItgAMlDXwQw_NH-rDj9hPscwmf0pT0,1172
+pure_sasl-0.6.1.dist-info/METADATA,sha256=BVuBACWERcyUyMiB1TOkLRmwd2U6J9E43aDUaevVl8M,1215
+pure_sasl-0.6.1.dist-info/WHEEL,sha256=pqI-DBMA-Z6OTNov1nVxs7mwm6Yj2kHZGNp_6krVn1E,92
+pure_sasl-0.6.1.dist-info/top_level.txt,sha256=2acq8MK3X4dZrUf_tIPo23sT7L9lDb9BnXcpeiazxZk,9
+pure_sasl-0.6.1.dist-info/RECORD,,
+pure_sasl-0.6.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+puresasl/mechanisms.pyc,,
+puresasl/client.pyc,,
+puresasl/__init__.pyc,,
